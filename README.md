@@ -1,22 +1,23 @@
 # Implementing Wind Turbine Predictive Analytics to reduce  Maintenance Downtime
 
-# Common Causes of Wind Turbine Maintenance Downtime:
 
-Gearbox failures - wear, lubrication issues, bearing failures
-Generator malfunctions - electrical faults, overheating
-Blade damage - erosion, cracks, lightning strikes
-Control system issues - sensor failures, software glitches
-Yaw system problems - misalignment, mechanical wear
-Environmental factors - icing, extreme weather conditions
+## Common Causes of Wind Turbine Maintenance Downtime:
+1. Gearbox failures - wear, lubrication issues, bearing failures
+2. Generator malfunctions - electrical faults, overheating
+3. Blade damage - erosion, cracks, lightning strikes
+4. Control system issues - sensor failures, software glitches
+5. Yaw system problems - misalignment, mechanical wear
+6. Environmental factors - icing, extreme weather condition
 
-# Associated Costs:
+## Associated Costs:
 
-Direct repair/replacement costs
-Lost revenue from power generation
-Labor and specialized equipment costs
-Transportation and logistics
-Spare parts inventory management
-Secondary damage from cascading failures
+1. Direct repair/replacement costs
+2. Lost revenue from power generation
+3. Labor and specialized equipment costs
+4. Transportation and logistics
+5. Spare parts inventory management 
+6. Secondary damage from cascading failures
+
 
 # Wind Turbine Predictive Maintenance
 
